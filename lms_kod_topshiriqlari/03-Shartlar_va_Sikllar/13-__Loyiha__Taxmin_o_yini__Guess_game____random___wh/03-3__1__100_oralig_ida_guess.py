@@ -1,6 +1,6 @@
 secret = 42
 while True:
-    trt:
+    try:
         line = input()
         if not line:
             break
@@ -12,4 +12,9 @@ while True:
         else:
             print("Correct")
             break
+    except EOFError:
+        break
+    except ValueError:
+        continue
+            
         
