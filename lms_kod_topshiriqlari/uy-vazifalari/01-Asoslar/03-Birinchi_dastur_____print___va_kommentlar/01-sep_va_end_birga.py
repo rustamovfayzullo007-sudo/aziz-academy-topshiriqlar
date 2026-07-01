@@ -1,2 +1,2 @@
 print("A", "B", "C", sep="-", end="->")
-print("Yakun"
+print("Yakun")
