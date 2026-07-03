@@ -1,2 +1,2 @@
 print("So'z: dasturlash")
-print("Uzunlik: 10")
+print("Uzunligi: 10")
