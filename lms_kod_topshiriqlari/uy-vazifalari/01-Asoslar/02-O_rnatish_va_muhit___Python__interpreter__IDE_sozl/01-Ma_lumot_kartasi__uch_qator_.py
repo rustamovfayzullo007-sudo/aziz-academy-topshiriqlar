@@ -1,3 +1,3 @@
-print(f"Ism: Aziz Academy")
-print(f"Ism: Python asoslari")
-print(f"Model: 1 - Asoslar")
+print("Ism: Aziz Academy")
+print("Kurs: Python asoslari")
+print("Modul: 1 - Asoslar")
