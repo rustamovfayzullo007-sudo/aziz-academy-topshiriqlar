@@ -1,0 +1,10 @@
+a = input()
+b = int(input())
+c = int(input())
+Jami = b * c
+print("===== CHEK =====")
+print(f"Mahsulot: {a}")
+print(f"Narx: {b}")
+print(f"Soni: {c}")
+print(f"Jami: {Jami}")
+print("================")
