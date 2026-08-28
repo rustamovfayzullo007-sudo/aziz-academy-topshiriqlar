@@ -1,2 +1,2 @@
-a = input()
-print(f"Salom {a.upper()}")
+ism = input()
+print(f"Salom {ism.upper()}")
