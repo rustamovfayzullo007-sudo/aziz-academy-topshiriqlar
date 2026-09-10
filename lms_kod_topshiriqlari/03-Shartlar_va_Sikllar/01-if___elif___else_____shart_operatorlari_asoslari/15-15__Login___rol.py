@@ -1,4 +1,3 @@
-
 username = input()
 if username == "admin":
     print("Admin")
