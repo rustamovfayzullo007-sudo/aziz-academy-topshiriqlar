@@ -1,0 +1,6 @@
+n = int(input())
+original = list(map(int, input().split()))
+copy_list = original.copy()
+copy_list.reverse()
+print(original)
+print(copy_list)
