@@ -6,36 +6,36 @@
 
 `█████░░░░░░░░░░░░░░░` **25%**  (44/179 mavzu)
 
-- ⭐ Jami ball: **78398**
-- 📤 GitHubga yuborilgan topshiriqlar: **889**
+- ⭐ Jami ball: **78403**
+- 📤 GitHubga yuborilgan topshiriqlar: **890**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 4 — Ma'lumot Tuzilmalari** → **🛠 List bilan masalalar — filtrlash, transformatsiya**
+**MODUL 4 — Ma'lumot Tuzilmalari** → **🛠 List bilan masalalar - filtrlash, transformatsiya**
 
-➡️ Keyingi mavzu: *Tuple — o'zgarmas tuzilma, qachon kerak*
+➡️ Keyingi mavzu: *Tuple - o'zgarmas tuzilma, qachon kerak*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
-- ✅ List — yaratish va index ⭐ — ro'yxat asoslari
-- ✅ List metodlari — append, insert, remove, pop, sort, reverse
-- ✅ List slicing va copy — list(), [:], shallow copy
-- ✅ 🛠 List bilan masalalar — filtrlash, transformatsiya  ← yetgan joyingiz
-- ⬜ Tuple — o'zgarmas tuzilma, qachon kerak
-- ⬜ Tuple unpacking ⭐ — a, b = b, a
-- ⬜ Dict — asoslar ⭐ — key/value, qiymatga murojaat
-- ⬜ Dict metodlari — keys(), values(), items(), get()
-- ⬜ 🛠 Dict bilan masalalar — lug'atlar, sozlamalar, hisoblagich
-- ⬜ Set — asoslar: yaratilish, in, len, takrorlanmaslik
-- ⬜ Set operatsiyalari — union, intersection, difference
-- ⬜ List of dicts ⭐ — o'quvchilar/mahsulotlar ro'yxati
-- ⬜ Nested structures — dict ichida list, list ichida dict
-- ⬜ Ma'lumotni tanlash ⭐ — list vs dict vs set
-- ⬜ Big O — kirish ⭐ — nega dict tez, list sekin?
-- ⬜ 🛠 Loyiha: Statistik hisoblagich — o'rtacha, mediana, moda
-- ⬜ 🛠 Loyiha: Konsol jadval — ma'lumotni jadval ko'rinishida
-- ⬜ Mustahkamlash 🔁 — barcha tuzilmalar bo'yicha mashqlar
+- ✅ List - yaratish va index ⭐ - ro'yxat asoslari
+- ✅ List metodlari - append, insert, remove, pop, sort, reverse
+- ✅ List slicing va copy - list(), [:], shallow copy
+- ✅ 🛠 List bilan masalalar - filtrlash, transformatsiya  ← yetgan joyingiz
+- ⬜ Tuple - o'zgarmas tuzilma, qachon kerak
+- ⬜ Tuple unpacking ⭐ - a, b = b, a
+- ⬜ Dict - asoslar ⭐ - key/value, qiymatga murojaat
+- ⬜ Dict metodlari - keys(), values(), items(), get()
+- ⬜ 🛠 Dict bilan masalalar - lug'atlar, sozlamalar, hisoblagich
+- ⬜ Set - asoslar: yaratilish, in, len, takrorlanmaslik
+- ⬜ Set operatsiyalari - union, intersection, difference
+- ⬜ List of dicts ⭐ - o'quvchilar/mahsulotlar ro'yxati
+- ⬜ Nested structures - dict ichida list, list ichida dict
+- ⬜ Ma'lumotni tanlash ⭐ - list vs dict vs set
+- ⬜ Big O - kirish ⭐ - nega dict tez, list sekin?
+- ⬜ 🛠 Loyiha: Statistik hisoblagich - o'rtacha, mediana, moda
+- ⬜ 🛠 Loyiha: Konsol jadval - ma'lumotni jadval ko'rinishida
+- ⬜ Mustahkamlash 🔁 - barcha tuzilmalar bo'yicha mashqlar
 
 </details>
 
@@ -66,4 +66,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-10-12 12:52</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-10-14 12:10</sub>
